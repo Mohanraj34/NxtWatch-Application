@@ -1,0 +1,15 @@
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.homeMainDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.body-con {
+  height: 90vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+}

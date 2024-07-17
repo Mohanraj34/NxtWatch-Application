@@ -1,0 +1,17 @@
+.text-con {
+  margin: 20px;
+}
+.closeIcon {
+  align-self: flex-start;
+}
+.button4 {
+  box-shadow: 5px 5px #000000;
+  height: 30px;
+  font-weight: bold;
+  font-family: Roboto;
+  background-color: #ffffff;
+}
+.button3 {
+  margin: 20px;
+  padding: 0px;
+}
